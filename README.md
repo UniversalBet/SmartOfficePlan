@@ -58,6 +58,9 @@ in alternativa, si potrebbe far fare tutto al server a discapito di un pò di pe
 ---
 
 ## Sicurezza Rete
+### Bitwarden - Sistema per le password
+Bitwarden è un sistema per conservare in maniera sicura le password, mantenedole sul nostro server e all'interno della nostra rete aziendale, senza farle uscire al di fuori
+
 ### "Buone abitudini"
 Alcune buone abitudini possono migliorare la sicurezza:
 - Inserire SEMPRE verifiche a più passaggi e/o Passkey
